@@ -46,7 +46,7 @@ fastapi==0.119.0
     # via gradio
 ffmpy==0.6.3
     # via gradio
-filelock==3.20.0
+filelock==3.20.1
     # via huggingface-hub
 fsspec==2025.9.0
     # via
