@@ -389,7 +389,7 @@ pygments==2.19.2
     #   rich
 pyjwt==2.10.1
     # via crewai
-pymdown-extensions==10.16
+pymdown-extensions==10.16.1
     # via mkdocs-material
 pypdfium2==4.30.1
     # via pdfplumber
