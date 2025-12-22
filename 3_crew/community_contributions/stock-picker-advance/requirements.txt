@@ -295,7 +295,7 @@ markupsafe==3.0.2
     #   gradio
     #   jinja2
     #   werkzeug
-marshmallow==3.26.1
+marshmallow==3.26.2
     # via dataclasses-json
 matplotlib-inline==0.1.7
     # via ipython
