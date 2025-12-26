@@ -1,5 +1,5 @@
 # Core dependencies
-fastmcp==0.3.0
+fastmcp==2.14.0
 gradio==4.44.0
 
 # FFmpeg wrapper (provides nice Python interface)
